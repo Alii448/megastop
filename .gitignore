@@ -2,10 +2,10 @@
 __pycache__/
 *.py[codz]
 *$py.class
-
+https://uniportal.huawei.com/uniportal1/help.html
 # C extensions
 *.so
-
+https://uniportal.huawei.com/uniportal1/help.html,alimtml 
 # Distribution / packaging
 .Python
 build/
